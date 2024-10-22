@@ -1,0 +1,14 @@
+C:\Users\kavee\source\repos\ExamplePracticeLogicalOperators\ExamplePracticeLogicalOperators\bin\Debug\net8.0\ExamplePracticeLogicalOperators.exe
+C:\Users\kavee\source\repos\ExamplePracticeLogicalOperators\ExamplePracticeLogicalOperators\bin\Debug\net8.0\ExamplePracticeLogicalOperators.deps.json
+C:\Users\kavee\source\repos\ExamplePracticeLogicalOperators\ExamplePracticeLogicalOperators\bin\Debug\net8.0\ExamplePracticeLogicalOperators.runtimeconfig.json
+C:\Users\kavee\source\repos\ExamplePracticeLogicalOperators\ExamplePracticeLogicalOperators\bin\Debug\net8.0\ExamplePracticeLogicalOperators.dll
+C:\Users\kavee\source\repos\ExamplePracticeLogicalOperators\ExamplePracticeLogicalOperators\bin\Debug\net8.0\ExamplePracticeLogicalOperators.pdb
+C:\Users\kavee\source\repos\ExamplePracticeLogicalOperators\ExamplePracticeLogicalOperators\obj\Debug\net8.0\ExamplePracticeLogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavee\source\repos\ExamplePracticeLogicalOperators\ExamplePracticeLogicalOperators\obj\Debug\net8.0\ExamplePracticeLogicalOperators.AssemblyInfoInputs.cache
+C:\Users\kavee\source\repos\ExamplePracticeLogicalOperators\ExamplePracticeLogicalOperators\obj\Debug\net8.0\ExamplePracticeLogicalOperators.AssemblyInfo.cs
+C:\Users\kavee\source\repos\ExamplePracticeLogicalOperators\ExamplePracticeLogicalOperators\obj\Debug\net8.0\ExamplePracticeLogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\kavee\source\repos\ExamplePracticeLogicalOperators\ExamplePracticeLogicalOperators\obj\Debug\net8.0\ExamplePracticeLogicalOperators.dll
+C:\Users\kavee\source\repos\ExamplePracticeLogicalOperators\ExamplePracticeLogicalOperators\obj\Debug\net8.0\refint\ExamplePracticeLogicalOperators.dll
+C:\Users\kavee\source\repos\ExamplePracticeLogicalOperators\ExamplePracticeLogicalOperators\obj\Debug\net8.0\ExamplePracticeLogicalOperators.pdb
+C:\Users\kavee\source\repos\ExamplePracticeLogicalOperators\ExamplePracticeLogicalOperators\obj\Debug\net8.0\ExamplePracticeLogicalOperators.genruntimeconfig.cache
+C:\Users\kavee\source\repos\ExamplePracticeLogicalOperators\ExamplePracticeLogicalOperators\obj\Debug\net8.0\ref\ExamplePracticeLogicalOperators.dll
