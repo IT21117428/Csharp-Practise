@@ -1,0 +1,14 @@
+C:\Users\kavee\source\repos\IfConditionPracticle\IfConditionPracticle\bin\Debug\net8.0\IfConditionPracticle.exe
+C:\Users\kavee\source\repos\IfConditionPracticle\IfConditionPracticle\bin\Debug\net8.0\IfConditionPracticle.deps.json
+C:\Users\kavee\source\repos\IfConditionPracticle\IfConditionPracticle\bin\Debug\net8.0\IfConditionPracticle.runtimeconfig.json
+C:\Users\kavee\source\repos\IfConditionPracticle\IfConditionPracticle\bin\Debug\net8.0\IfConditionPracticle.dll
+C:\Users\kavee\source\repos\IfConditionPracticle\IfConditionPracticle\bin\Debug\net8.0\IfConditionPracticle.pdb
+C:\Users\kavee\source\repos\IfConditionPracticle\IfConditionPracticle\obj\Debug\net8.0\IfConditionPracticle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavee\source\repos\IfConditionPracticle\IfConditionPracticle\obj\Debug\net8.0\IfConditionPracticle.AssemblyInfoInputs.cache
+C:\Users\kavee\source\repos\IfConditionPracticle\IfConditionPracticle\obj\Debug\net8.0\IfConditionPracticle.AssemblyInfo.cs
+C:\Users\kavee\source\repos\IfConditionPracticle\IfConditionPracticle\obj\Debug\net8.0\IfConditionPracticle.csproj.CoreCompileInputs.cache
+C:\Users\kavee\source\repos\IfConditionPracticle\IfConditionPracticle\obj\Debug\net8.0\IfConditionPracticle.dll
+C:\Users\kavee\source\repos\IfConditionPracticle\IfConditionPracticle\obj\Debug\net8.0\refint\IfConditionPracticle.dll
+C:\Users\kavee\source\repos\IfConditionPracticle\IfConditionPracticle\obj\Debug\net8.0\IfConditionPracticle.pdb
+C:\Users\kavee\source\repos\IfConditionPracticle\IfConditionPracticle\obj\Debug\net8.0\IfConditionPracticle.genruntimeconfig.cache
+C:\Users\kavee\source\repos\IfConditionPracticle\IfConditionPracticle\obj\Debug\net8.0\ref\IfConditionPracticle.dll
